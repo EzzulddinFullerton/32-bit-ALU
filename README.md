@@ -1,4 +1,4 @@
-## 🚀 Project Readme: CPSC 440 Midterm ALU/Extensions
+## 🚀 32-bit ALU
 
 This repository contains the implementation of a simulated 32-bit Arithmetic Logic Unit (ALU) and its specialized extensions.
 
